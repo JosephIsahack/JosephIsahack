@@ -1,11 +1,5 @@
 # Joseph A. Isahack
 
-### Where tech meets mission.
-
-I'm a senior IT leader specializing in cloud modernization, cybersecurity, data platforms, and enterprise infrastructure for mission-driven organizations.
-
-Most of my career has been in nonprofits, where resources are limited, the mission is critical, and technology has to deliver real value. I build systems that improve data insight, strengthen security, increase productivity, and help organizations scale their impact.
-
 ### What I work on
 
 - Hybrid cloud and enterprise infrastructure
