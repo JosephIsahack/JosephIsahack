@@ -27,7 +27,3 @@ That means:
 
 - Website: [josephisahack.com](https://www.josephisahack.com)
 - LinkedIn: [linkedin.com/in/josephisahack](https://www.linkedin.com/in/josephisahack)
-
----
-
-*Build with empathy. Deliver with purpose.*
